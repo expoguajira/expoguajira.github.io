@@ -18,7 +18,7 @@ tags:
 
 <div style="text-align: center;">
 
-![](/assets/images/piloto-pectinidos/mallas.jpg)
+![](https://expoguajira.github.io/assets/images/piloto-pectinidos/mallas.jpg)
 
 </div>
 
