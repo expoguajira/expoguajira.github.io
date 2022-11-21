@@ -16,11 +16,13 @@ tags:
   - expo
 ---
 
-<div style="text-align: center;">
-
-[![](https://expoguajira.github.io/assets/images/piloto-pectinidos/mallas.jpg)](https://expoguajira.github.io)
-
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="https://expoguajira.github.io/assets/images/piloto-pectinidos/mallas.jpg">
+</img>
 
 ## TASA DE CRECIMIENTO
 
