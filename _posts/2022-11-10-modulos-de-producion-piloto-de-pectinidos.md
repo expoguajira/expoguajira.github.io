@@ -5,7 +5,8 @@ excerpt: "Organismo de cultivo la especie cultivada es la conchuela “Argopecte
 date: 2022-11-10
 classes: wide
 header:
-  teaser: /assets/images/piloto-pectinidos/logo.png
+
+  teaser: /assets/images/piloto-pectinidos/logo.jpg
   teaser_home_page: true
   icon: /assets/images/iconUniguajira.webp
 categories:
