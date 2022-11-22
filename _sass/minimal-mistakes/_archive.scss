@@ -65,15 +65,19 @@
   a {
     position: relative;
   }
+  img {
+    border-radius: 50%;
+  }
 }
 
 .archive__item-teaser {
   position: relative;
-  border-radius: 50%;
+  border-radius: $border-radius;
   overflow: hidden;
 
   img {
     width: 100%;
+    border-radius: 50%;
   }
 }
 
